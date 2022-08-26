@@ -1,0 +1,15 @@
+# ifelse.py
+
+money = -10
+
+if money >= 300:
+    print('ไปกินอาหารญี่ปุ่น')
+elif money >= 50:
+    print('กลับไปกินมาม่า')
+elif money >= 0 :
+    print('ไปกินข้าวหลาม')
+else:
+    print('กรุณากรอกมากกว่า 0')
+
+
+print('กลับมาเรียน python ต่อ')
